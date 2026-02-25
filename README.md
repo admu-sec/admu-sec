@@ -1,5 +1,6 @@
 # Hi there 👋
 
+<br>
 
 ## About me
 
@@ -7,6 +8,7 @@ My name is Adam, 28 years old from Sweden.
 
 I'm an IT Security Specialist student with a focus on defensive security, SIEM and threat detection, while also exploring offensive security.
 
+<br>
 
 ## Tools & Technologies
 
