@@ -4,7 +4,7 @@
 
 My name is Adam.
 
-I'm an IT Security Specialist student focused on defensive security, SIEM and threat detection.
+I'm an IT Security Specialist student with a focus on defensive security, SIEM and threat detection, while also exploring offensive security.
 
 ## Tools & Technologies
 
