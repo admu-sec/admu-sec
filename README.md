@@ -8,13 +8,13 @@ IT Security Specialist student with a primary focus on **defensive security** an
 
 ## 🛡️ Defensive Focus
 
-- **SIEM:** Working with Wazuh and KQL for real-time threat detection
-- **Systems:** Managing Windows & Linux environments
+- **SIEM:** Working with Wazuh and KQL for real-time threat detection.
+- **Systems:** Managing Windows & Linux environments.
 
 ## ⚔️ Offensive Exploration
 
-- **Scripting:** PowerShell and Bash for automation and security tasks
-- **Tools:** Kali Linux and various security auditing tools
+- **Scripting:** PowerShell and Bash for automation and security tasks.
+- **Tools:** Kali Linux and various security auditing tools.
 
 ---
 
