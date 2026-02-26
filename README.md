@@ -6,6 +6,8 @@ IT Security Specialist student with a primary focus on **defensive security** an
 
 ---
 
+<br>
+
 ## 🛡️ Defensive Focus
 
 - **SIEM:** Working with Wazuh and KQL for real-time threat detection
@@ -17,6 +19,8 @@ IT Security Specialist student with a primary focus on **defensive security** an
 - **Tools:** Kali Linux and various security auditing tools
 
 ---
+
+<br>
 
 ## 🛠️ Tools & Technologies
 
