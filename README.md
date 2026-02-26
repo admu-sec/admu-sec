@@ -1,20 +1,24 @@
 # Hi there 👋
 
-<br>
-
-## About me
-
-<br>
-
 My name is Adam, 28 years old from Sweden.
 
-IT Security Specialist student focused on Blue Teaming (SIEM & Threat Detection) with a passion for exploring Offensive Security.
+IT Security Specialist student with a primary focus on **defensive security** and **threat detection**, while also exploring **offensive security**.
 
-<br>
+---
 
-## Tools & Technologies
+## 🛡️ Defensive Focus
 
-<br>
+- **SIEM:** Working with Wazuh and KQL for real-time threat detection
+- **Systems:** Managing Windows & Linux environments
+
+## ⚔️ Offensive Exploration
+
+- **Scripting:** PowerShell and Bash for automation and security tasks
+- **Tools:** Kali Linux and various security auditing tools
+
+---
+
+## 🛠️ Tools & Technologies
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
