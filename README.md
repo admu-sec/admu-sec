@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there!👋
 
 My name is Adam, 28 years old from Sweden.
 
