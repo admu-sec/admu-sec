@@ -34,3 +34,12 @@ IT Security Specialist student with a primary focus on **defensive security** an
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
 ![KQL](https://img.shields.io/badge/KQL-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white)
+
+---
+
+## 📂 Projects
+
+| Repo | Description |
+|------|-------------|
+| [itsec-portfolio](https://github.com/admu-sec/itsec-portfolio) | My IT Security Specialist education portfolio |
+| [awesome-security](https://github.com/admu-sec/awesome-security) | Curated list of security tools and resources |
