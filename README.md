@@ -41,7 +41,7 @@ IT Security Specialist student with a primary focus on **defensive security** an
 
 | Repo | Description |
 |------|-------------|
-| [itsec-portfolio](https://github.com/admu-sec/itsec-portfolio) | My IT Security Specialist education portfolio |
-| [awesome-security](https://github.com/admu-sec/awesome-security) | Curated list of security tools and resources |
-| [wsl-arch-setup](https://github.com/admu-sec/wsl-arch-setup) | WSL Arch Linux setup guide |
-| [archlinux-installation](https://github.com/admu-sec/archlinux-installation) | Arch Linux installation guide |
+| [itsec-portfolio](https://github.com/admu-sec/itsec-portfolio) | My IT Security Specialist education portfolio. |
+| [awesome-security](https://github.com/admu-sec/awesome-security) | Curated list of security tools and resources. |
+| [wsl-arch-setup](https://github.com/admu-sec/wsl-arch-setup) | WSL Arch Linux setup guide. |
+| [archlinux-installation](https://github.com/admu-sec/archlinux-installation) | Arch Linux installation guide. |
