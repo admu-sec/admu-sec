@@ -10,6 +10,20 @@ IT Security Specialist student with a primary focus on **defensive security** an
 
 ---
 
+## 📂 Projects
+
+| Repo | Description |
+|------|-------------|
+| [itsec-portfolio](https://github.com/admu-sec/itsec-portfolio) | My IT Security Specialist education portfolio. |
+| [awesome-security](https://github.com/admu-sec/awesome-security) | Curated list of security tools and resources. |
+| [powershell-one-liners](https://github.com/admu-sec/powershell-one-liners) | A collection of useful PowerShell one-liners. |
+| [bash-one-liners](https://github.com/admu-sec/bash-one-liners) | A collection of useful Bash one-liners. |
+| [kql-queries](https://github.com/admu-sec/kql-queries) | KQL queries for security monitoring. |
+| [wsl-arch-setup](https://github.com/admu-sec/wsl-arch-setup) | WSL Arch Linux setup guide. |
+| [archlinux-installation](https://github.com/admu-sec/archlinux-installation) | Arch Linux installation guide with Hyprland. |
+
+---
+
 ## 🛡️ Defensive Focus
 
 - **SIEM:** Configuring and tuning Wazuh with custom rules for real-time threat detection.
@@ -39,16 +53,3 @@ IT Security Specialist student with a primary focus on **defensive security** an
 ![KQL](https://img.shields.io/badge/KQL-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white)
 
----
-
-## 📂 Projects
-
-| Repo | Description |
-|------|-------------|
-| [itsec-portfolio](https://github.com/admu-sec/itsec-portfolio) | My IT Security Specialist education portfolio. |
-| [awesome-security](https://github.com/admu-sec/awesome-security) | Curated list of security tools and resources. |
-| [powershell-one-liners](https://github.com/admu-sec/powershell-one-liners) | Powershell one-liners. |
-| [bash-one-liners](https://github.com/admu-sec/bash-one-liners) | Bash one-liners. |
-| [kql-queries](https://github.com/admu-sec/kql-queries) | KQL Queries. |
-| [wsl-arch-setup](https://github.com/admu-sec/wsl-arch-setup) | WSL Arch Linux setup guide. |
-| [archlinux-installation](https://github.com/admu-sec/archlinux-installation) | Arch Linux installation guide. |
