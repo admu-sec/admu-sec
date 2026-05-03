@@ -21,6 +21,8 @@ IT Security Specialist student with a primary focus on **defensive security** an
 | [kql-queries](https://github.com/admu-sec/kql-queries) | KQL queries for security monitoring. |
 | [wsl-arch-setup](https://github.com/admu-sec/wsl-arch-setup) | WSL Arch Linux setup guide. |
 | [archlinux-installation](https://github.com/admu-sec/archlinux-installation) | Arch Linux installation guide with Hyprland. |
+| [arch-dualboot-setup](https://github.com/admu-sec/arch-dualboot-setup/) | My Arch Linux Dual-Boot Setup |
+
 
 ---
 
