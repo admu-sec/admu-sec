@@ -15,6 +15,7 @@ IT Security Specialist student with a primary focus on **defensive security** an
 | Repo | Description |
 |------|-------------|
 | [itsec-portfolio](https://github.com/admu-sec/itsec-portfolio) | My IT Security Specialist education portfolio. |
+| [wazuh-degree-project](https://github.com/admu-sec/wazuh-degree-project) | My degree project: Optimizing Wazuh SIEM for Threat Detection with custom rules. |
 | [awesome-security](https://github.com/admu-sec/awesome-security) | Curated list of security tools and resources. |
 | [powershell-one-liners](https://github.com/admu-sec/powershell-one-liners) | A collection of useful PowerShell one-liners. |
 | [bash-one-liners](https://github.com/admu-sec/bash-one-liners) | A collection of useful Bash one-liners. |
