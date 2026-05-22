@@ -2,11 +2,7 @@
 
 My name is Adam, 28 years old from Sweden.
 
-IT Security Specialist with a primary focus on **defensive security** and **threat detection**, while also exploring **offensive security**. Currently in my second internship and working on my degree project.
-
----
-
-> 🎓 Degree project: Optimizing detection capability in open-source SIEM solutions.
+IT Security Specialist with a primary focus on **defensive security** and **threat detection**, while also exploring **offensive security**.
 
 ---
 
