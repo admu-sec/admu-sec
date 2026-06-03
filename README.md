@@ -16,9 +16,12 @@ IT Security Specialist with a primary focus on **defensive security** and **thre
 | [powershell-one-liners](https://github.com/admu-sec/powershell-one-liners) | A collection of useful PowerShell one-liners. |
 | [bash-one-liners](https://github.com/admu-sec/bash-one-liners) | A collection of useful Bash one-liners. |
 | [kql-queries](https://github.com/admu-sec/kql-queries) | KQL queries for security monitoring. |
+| [htb-spl-cheatsheet](https://github.com/admu-sec/htb-spl-cheatsheet) | Hack The Box Splunk SPL Cheatsheet |
 | [wsl-arch-setup](https://github.com/admu-sec/wsl-arch-setup) | WSL Arch Linux setup guide. |
 | [archlinux-installation](https://github.com/admu-sec/archlinux-installation) | Arch Linux installation guide with Hyprland. |
 | [arch-dualboot-setup](https://github.com/admu-sec/arch-dualboot-setup/) | My Arch Linux Dual-Boot Setup |
+
+
 
 
 ---
