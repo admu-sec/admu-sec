@@ -20,6 +20,7 @@ IT Security Specialist with a primary focus on **defensive security** and **thre
 | [wsl-arch-setup](https://github.com/admu-sec/wsl-arch-setup) | WSL Arch Linux setup guide. |
 | [archlinux-installation](https://github.com/admu-sec/archlinux-installation) | Arch Linux installation guide with Hyprland. |
 | [arch-dualboot-setup](https://github.com/admu-sec/arch-dualboot-setup/) | My Arch Linux Dual-Boot Setup |
+| [nmap-cheatsheet](https://github.com/admu-sec/nmap-cheatsheet) | A collection of nmap commands. |
 
 
 
