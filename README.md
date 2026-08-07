@@ -1,8 +1,16 @@
 # Hi there!👋
 
-My name is Adam, 29 years old from Sweden.
+My name is Adam, 29 years old, IT Security Specialist from Sweden.
 
-IT Security Specialist with a primary focus on **defensive security** and **threat detection**, while also exploring **offensive security**.
+Primary focus on defensive security, SIEM and threat detection, with hands-on experience in Active Directory administration, two internships, and a degree project centered on Wazuh.
+
+---
+
+## 🎓 Degree Project
+
+Optimizing an open source SIEM solution (Wazuh) for detection capability — custom rules, false positive tuning, and MITRE ATT&CK mapping.
+
+- [wazuh-degree-project](https://github.com/admu-sec/wazuh-degree-project)
 
 ---
 
@@ -11,18 +19,17 @@ IT Security Specialist with a primary focus on **defensive security** and **thre
 | Repo | Description |
 |------|-------------|
 | [itsec-portfolio](https://github.com/admu-sec/itsec-portfolio) | My IT Security Specialist education portfolio. |
-| [wazuh-degree-project](https://github.com/admu-sec/wazuh-degree-project) | My degree project: Optimizing Wazuh SIEM for Threat Detection with custom rules. |
-| [awesome-security](https://github.com/admu-sec/awesome-security) | Curated list of security tools and resources. |
+| [wazuh-degree-project](https://github.com/admu-sec/wazuh-degree-project) | Degree project: optimizing Wazuh SIEM for threat detection with custom rules. |
+| [wazuh-queries](https://github.com/admu-sec/wazuh-queries) | Lucene queries for Wazuh, mapped to MITRE ATT&CK. |
+| [kql-queries](https://github.com/admu-sec/kql-queries) | KQL queries for Sentinel/Log Analytics, mapped to MITRE ATT&CK. |
+| [awesome-security](https://github.com/admu-sec/awesome-security) | Curated list of security tools and resources (Blue Team, Red Team, OSINT). |
 | [powershell-one-liners](https://github.com/admu-sec/powershell-one-liners) | A collection of useful PowerShell one-liners. |
 | [bash-one-liners](https://github.com/admu-sec/bash-one-liners) | A collection of useful Bash one-liners. |
-| [kql-queries](https://github.com/admu-sec/kql-queries) | KQL queries for security monitoring. |
-| [htb-spl-cheatsheet](https://github.com/admu-sec/htb-spl-cheatsheet) | Hack The Box Splunk SPL Cheatsheet. |
-| [wsl-arch-setup](https://github.com/admu-sec/wsl-arch-setup) | WSL Arch Linux setup guide. |
-| [archlinux-installation](https://github.com/admu-sec/archlinux-installation) | Arch Linux installation guide with Hyprland. |
-| [arch-dualboot-setup](https://github.com/admu-sec/arch-dualboot-setup/) | My Arch Linux Dual-Boot Setup |
 | [nmap-cheatsheet](https://github.com/admu-sec/nmap-cheatsheet) | A collection of nmap commands. |
-
-
+| [htb-spl-cheatsheet](https://github.com/admu-sec/htb-spl-cheatsheet) | Hack The Box Splunk SPL Cheatsheet. |
+| [archlinux-installation](https://github.com/admu-sec/archlinux-installation) | Arch Linux installation guide with Hyprland. |
+| [wsl-arch-setup](https://github.com/admu-sec/wsl-arch-setup) | WSL Arch Linux setup guide. |
+| [arch-dualboot-setup](https://github.com/admu-sec/arch-dualboot-setup/) | My Arch Linux dual-boot setup. |
 
 
 ---
@@ -30,7 +37,7 @@ IT Security Specialist with a primary focus on **defensive security** and **thre
 ## 🛡️ Defensive Focus
 
 - **SIEM:** Configuring and tuning Wazuh with custom rules for real-time threat detection.
-- **KQL:** Writing queries for security monitoring and threat hunting.
+- **Detection Engineering:** Writing KQL/Lucene queries mapped to MITRE ATT&CK.
 - **Systems:** Managing and securing Windows & Linux environments.
 - **Active Directory:** Domain Controller setup and GPO configuration.
 
@@ -39,7 +46,8 @@ IT Security Specialist with a primary focus on **defensive security** and **thre
 - **Penetration Testing:** Using Metasploit and Kali Linux for ethical hacking.
 - **Network Scanning:** Nmap for network discovery and security auditing.
 - **Password Attacks:** Hydra and Hashcat for password testing.
-- **Scripting:** PowerShell and Bash for automation and security tasks.
+- **OSINT:** Recon with tools like Shodan and Sherlock.
+
 
 ---
 
@@ -56,3 +64,8 @@ IT Security Specialist with a primary focus on **defensive security** and **thre
 ![KQL](https://img.shields.io/badge/KQL-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white)
 
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adamudd/)
