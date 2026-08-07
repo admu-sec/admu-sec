@@ -14,9 +14,9 @@ Primary focus on defensive security, SIEM and threat detection, with hands-on ex
 
 ## 🎓 Degree Project
 
-Optimizing an open source SIEM solution (Wazuh) for detection capability — custom rules, false positive tuning, and MITRE ATT&CK mapping.
+**Optimizing an open source SIEM solution (Wazuh) for detection capability** — custom rules, false positive tuning, and MITRE ATT&CK mapping.
 
-- [wazuh-degree-project](https://github.com/admu-sec/wazuh-degree-project)
+📎 [wazuh-degree-project](https://github.com/admu-sec/wazuh-degree-project)
 
 ---
 
