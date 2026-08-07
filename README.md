@@ -72,4 +72,7 @@ Optimizing an open source SIEM solution (Wazuh) for detection capability — cus
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=admu-sec&theme=dark&hide_border=true)
 
