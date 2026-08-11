@@ -20,19 +20,32 @@ Primary focus on defensive security, SIEM and threat detection, with hands-on ex
 
 ## 📂 Projects
 
+### 🎯 Portfolio
 | Repo | Description |
-|------|-------------|
+|---|---|
 | [itsec-portfolio](https://github.com/admu-sec/itsec-portfolio) | My IT Security Specialist education portfolio. |
+
+### 🔬 Labs & Hands-on Projects
+| Repo | Description |
+|---|---|
 | [wazuh-degree-project](https://github.com/admu-sec/wazuh-degree-project) | Degree project: optimizing Wazuh SIEM for threat detection with custom rules. |
 | [ad-hardening-pentest-lab](https://github.com/admu-sec/ad-hardening-pentest-lab-) | Windows Server/AD hardening lab with before/after PingCastle scoring and mutual pentest verification. |
 | [webapp-security-exploits](https://github.com/admu-sec/webapp-security-exploits) | OWASP Top 10 exploit & remediation write-ups (SQLi, XSS, broken access control, path traversal). |
+
+### 📚 Reference & Query Libraries
+| Repo | Description |
+|---|---|
 | [wazuh-queries](https://github.com/admu-sec/wazuh-queries) | Lucene queries for Wazuh, mapped to MITRE ATT&CK. |
 | [kql-queries](https://github.com/admu-sec/kql-queries) | KQL queries for Sentinel/Log Analytics, mapped to MITRE ATT&CK. |
 | [awesome-security](https://github.com/admu-sec/awesome-security) | Curated list of security tools and resources (Blue Team, Red Team, OSINT). |
-| [powershell-one-liners](https://github.com/admu-sec/powershell-one-liners) | A collection of useful PowerShell one-liners. |
-| [bash-one-liners](https://github.com/admu-sec/bash-one-liners) | A collection of useful Bash one-liners. |
 | [nmap-cheatsheet](https://github.com/admu-sec/nmap-cheatsheet) | A collection of nmap commands. |
 | [htb-spl-cheatsheet](https://github.com/admu-sec/htb-spl-cheatsheet) | Hack The Box Splunk SPL Cheatsheet. |
+| [powershell-one-liners](https://github.com/admu-sec/powershell-one-liners) | A collection of useful PowerShell one-liners. |
+| [bash-one-liners](https://github.com/admu-sec/bash-one-liners) | A collection of useful Bash one-liners. |
+
+### 🖥️ Linux Setup Guides
+| Repo | Description |
+|---|---|
 | [archlinux-installation](https://github.com/admu-sec/archlinux-installation) | Arch Linux installation guide with Hyprland. |
 | [wsl-arch-setup](https://github.com/admu-sec/wsl-arch-setup) | WSL Arch Linux setup guide. |
 | [arch-dualboot-setup](https://github.com/admu-sec/arch-dualboot-setup/) | My Arch Linux dual-boot setup. |
