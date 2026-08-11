@@ -24,6 +24,8 @@ Primary focus on defensive security, SIEM and threat detection, with hands-on ex
 |------|-------------|
 | [itsec-portfolio](https://github.com/admu-sec/itsec-portfolio) | My IT Security Specialist education portfolio. |
 | [wazuh-degree-project](https://github.com/admu-sec/wazuh-degree-project) | Degree project: optimizing Wazuh SIEM for threat detection with custom rules. |
+| [ad-hardening-pentest-lab](https://github.com/admu-sec/ad-hardening-pentest-lab-) | Windows Server/AD hardening lab with before/after PingCastle scoring and mutual pentest verification. |
+| [webapp-security-exploits](https://github.com/admu-sec/webapp-security-exploits) | OWASP Top 10 exploit & remediation write-ups (SQLi, XSS, broken access control, path traversal). |
 | [wazuh-queries](https://github.com/admu-sec/wazuh-queries) | Lucene queries for Wazuh, mapped to MITRE ATT&CK. |
 | [kql-queries](https://github.com/admu-sec/kql-queries) | KQL queries for Sentinel/Log Analytics, mapped to MITRE ATT&CK. |
 | [awesome-security](https://github.com/admu-sec/awesome-security) | Curated list of security tools and resources (Blue Team, Red Team, OSINT). |
